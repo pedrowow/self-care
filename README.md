@@ -1,6 +1,7 @@
 # Self-Care Tracker
 
 A lightweight PWA for tracking morning and evening self-care habits on iPhone (or any mobile browser).
+Code created by Claude.
 
 ## What it does
 
