@@ -2,7 +2,7 @@
   "name": "Self-Care",
   "short_name": "Self-Care",
   "description": "Morning and evening self-care habit tracker",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#1a1a2e",
   "theme_color": "#1a1a2e",
